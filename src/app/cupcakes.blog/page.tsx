@@ -62,7 +62,7 @@ export default function Cupcake() {
         </h6>
         <p className="text-sm md:text-lg font-medium leading-7 md:leading-9">
           - Use quality ingredients. <br />
-          - Don't overmix batter. <br />
+          - Don&apos;t overmix batter. <br />
           - Adjust frosting consistency. <br />- Experiment with flavors.
         </p>
         <h6 className="text-left text-pink-500 text-xl md:text-3xl font-bold py-5">

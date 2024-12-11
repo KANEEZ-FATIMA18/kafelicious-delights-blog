@@ -53,7 +53,7 @@ export default function Cookies() {
         </h5>
         <p>
           - Use room temperature butter. <br />
-          - Don't overmix. <br />- Chill dough for 30 minutes.
+          - Don&apos;t overmix. <br />- Chill dough for 30 minutes.
         </p>
       </div>
     </div>

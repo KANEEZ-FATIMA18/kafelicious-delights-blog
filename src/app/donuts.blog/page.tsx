@@ -22,7 +22,7 @@ export default function Donuts() {
           1/2 cup whole milk <br /> 2 teaspoons active dry yeast <br />
           1/4 teaspoon salt <br /> 2 large eggs <br /> 4 tablespoons unsalted butter, melted <br />
           1 teaspoon vanilla extract <br />
-          Confectioners' sugar for dusting (optional)
+          Confectioners&apos; sugar for dusting (optional)
         </p>
         <h3 className="text-left text-pink-500 text-xl md:text-3xl font-bold py-5">
           Cooking Procedure
@@ -40,7 +40,7 @@ export default function Donuts() {
           8. Cut into donut shapes. <br />
           9. Fry in hot oil (350°F) 1-2 minutes per side. <br />
           10. Drain excess oil. <br />
-          11. Dust with confectioners' sugar (optional).
+          11. Dust with confectioners&apos; sugar (optional).
         </p>
         <h4 className="text-left text-pink-500 text-xl md:text-3xl font-bold py-5">
           Variations
@@ -56,7 +56,7 @@ export default function Donuts() {
         <p className="text-sm md:text-lg font-medium leading-7 md:leading-9">
           - Use quality ingredients. <br />
           - Maintain oil temperature. <br />
-          - Don't overmix dough. <br /> - Experiment with flavors.
+          - Don&apos;t overmix dough. <br /> - Experiment with flavors.
         </p>
       </div>
     </div>

@@ -45,7 +45,7 @@ export default function IceCreamRecipe() {
           2. Add vanilla extract. <br />
           3. Chill mixture in the refrigerator for 2 hours. <br />
           4. Pour mixture into the ice cream maker. <br />
-          5. Follow the manufacturer's instructions.
+          5. Follow the manufacturer&apos;s instructions.
         </p>
 
         {/* Method 2 */}

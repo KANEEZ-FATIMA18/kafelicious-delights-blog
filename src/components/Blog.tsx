@@ -21,9 +21,9 @@ export default function Blogs() {
               PINK CAKE
             </h1>
             <p className="py-3 text-sm md:text-lg font-bold">
-              "Slice of Heaven! Our moist and decadent cakes are crafted with
+            &quot;Slice of Heaven! Our moist and decadent cakes are crafted with
               love, featuring rich flavors and velvety textures that will make
-              every occasion special."
+              every occasion special.&quot;
             </p>
             <Link href={"/pink-cake.blog"}>
               <button className="bg-pink-500 hover:bg-pink-600 text-sm md:text-lg font-bold p-3 rounded-md">
@@ -49,9 +49,9 @@ export default function Blogs() {
               DONUTS
             </h1>
             <p className="py-3 text-sm md:text-lg font-bold">
-              "Rise & Indulge! Our handcrafted donuts are soft, fluffy, and
+            &quot;Rise & Indulge! Our handcrafted donuts are soft, fluffy, and
               bursting with flavor. From classic glazed to creative twists,
-              every bite is a sweet delight."
+              every bite is a sweet delight.&quot;
             </p>
             <Link href={"/donuts.blog"}>
               <button className="bg-pink-500 hover:bg-pink-600 text-sm md:text-lg font-bold p-3 rounded-md">
@@ -77,9 +77,9 @@ export default function Blogs() {
               MACRONS
             </h1>
             <p className="py-3 text-sm md:text-lg font-bold">
-              "Delicate Delights! Our handcrafted macarons are a symphony of
+            &quot;Delicate Delights! Our handcrafted macarons are a symphony of
               flavors and textures, with crisp shells and creamy fillings that
-              will transport you to a world of sweet bliss."
+              will transport you to a world of sweet bliss.&quot;
             </p>
             <Link href={"/macrons.blog"}>
               <button className="bg-pink-500 hover:bg-pink-600 text-sm md:text-lg font-bold p-3 rounded-md">
@@ -105,9 +105,9 @@ export default function Blogs() {
               CUP CAKE
             </h1>
             <p className="py-3 text-sm md:text-lg font-bold">
-              "Sweet Delight in Every Bite! Our moist and decadent cupcakes are
+            &quot;Sweet Delight in Every Bite! Our moist and decadent cupcakes are
               crafted with love, featuring rich flavors and velvety frostings
-              that will satisfy your sweet tooth."
+              that will satisfy your sweet tooth.&quot;
             </p>
             <Link href={"/cupcakes.blog"}>
               <button className="bg-pink-500 hover:bg-pink-600 text-sm md:text-lg font-bold p-3 rounded-md">
@@ -133,9 +133,9 @@ export default function Blogs() {
               COOKIES
             </h1>
             <p className="py-3 font-bold text-xl">
-              "Savor the crunch! Our artisanal cookies are baked with love,
+            &quot;Savor the crunch! Our artisanal cookies are baked with love,
               using only the finest ingredients. Indulge in warm, chewy goodness
-              that will satisfy your sweet tooth."
+              that will satisfy your sweet tooth.&quot;
             </p>
             <Link href={"/cookies.blog"}>
               <button className="bg-pink-500 hover:bg-pink-600 text-sm md:text-lg font-bold p-3 rounded-md">
@@ -161,10 +161,10 @@ export default function Blogs() {
               ICE CREAM
             </h1>
             <p className="py-3 text-sm md:text-lg font-bold">
-              "Savor the sweetness! Our artisanal ice creams are handcrafted
+            &quot;Savor the sweetness! Our artisanal ice creams are handcrafted
               with love, using only the finest ingredients. Indulge in unique
               flavors and creamy textures that will transport you to a world of
-              bliss."
+              bliss.&quot;
             </p>
             <Link href={"/icecream.blog"}>
               <button className="bg-pink-500 hover:bg-pink-600 text-sm md:text-lg font-bold p-3 rounded-md">

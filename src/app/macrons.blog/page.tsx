@@ -61,7 +61,7 @@ export default function Macrons() {
         <p className="text-sm md:text-lg font-medium leading-7 md:leading-9">
           - Use aged egg whites. <br />
           - Maintain oven temperature. <br />
-          - Don't overmix. <br />- Experiment with flavors.
+          - Don&apos;t overmix. <br />- Experiment with flavors.
         </p>
       </div>
     </div>
