@@ -163,7 +163,7 @@ export default function Blogs() {
             <p className="py-3 text-sm md:text-lg font-bold">
             &quot;Savor the sweetness! Our artisanal ice creams are handcrafted
               with love, using only the finest ingredients. Indulge in unique
-              flavors and creamy textures that will transport you to a world of
+              flavors and creamy textures  that will transport you to a world of
               bliss.&quot;
             </p>
             <Link href={"/icecream.blog"}>
